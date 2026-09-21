@@ -3,6 +3,11 @@
 """
 spi_xfer_public - inference_interface.py
 
+
+
+
+
+2026/9/21/17.29
 在官方 baseline 基础上修改为：
     1. 默认使用分层状态机 Agent（hfsm）
     2. 配置前主动关闭 SSIENR
